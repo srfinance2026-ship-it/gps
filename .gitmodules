@@ -1,0 +1,3 @@
+[submodule "GPSAlertApp"]
+	path = GPSAlertApp
+	url = https://github.com/srfinance2026-ship-it/gps.git
